@@ -176,25 +176,6 @@ ul.images li img { vertical-align: middle; }
 #header h1 a:hover { text-decoration: none; }
 #header h1 span { color: #fff; }
 
-/* if you would like to replace the logo with 
-an image, comment out the above logo code and
-uncomment the following */
-/* 
-#header h1 {
-	background: url(../img/logo.gif) no-repeat;
-	width: [your-logo-width-here]px;
-	height: [your-logo-height-here]px;	
-	margin: 0;
-	float: left;
-	}	
-#header h1 a {
-	display: block;
-	height: 100%;
-	text-indent: -9999px;
-	outline: none;
-	}
-*/	
-
 /*------------------------------------------------------------*
 **  Body
 **------------------------------------------------------------*/	
